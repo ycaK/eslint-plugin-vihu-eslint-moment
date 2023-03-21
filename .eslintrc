@@ -1,0 +1,13 @@
+{
+  "root": true,
+  "parser": "@typescript-eslint/parser",
+  "plugins": [
+    "no-moment"
+  ],
+  "extends": [
+
+  ],
+  "rules": {
+    "no-moment/no-moment-lib": "error"
+  }
+}
