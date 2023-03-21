@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Eslint no-moment package for final project.",
   "main": "",
-  "scripts": {
-    "eslint": "eslint ."
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -13,6 +10,5 @@
     "@typescript-eslint/eslint-plugin": "^5.56.0",
     "@typescript-eslint/parser": "^5.56.0",
     "eslint": "^8.36.0",
-    "eslint-plugin-no-moment": "file:./eslint"
   }
 }
